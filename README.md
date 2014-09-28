@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html> 
-<head>
-<title>Example</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta id='page-params'
-	theme='spacelab'
-	title='Strapdown+Navigation'
-	menu='Home,index.html,Menu 1,menu1.html,Menu 2,menu2.html,Menu 3,menu3/index.html' 
-	active='1'>
-</head>
-
-<body style="display:none">
-
-<textarea>
 # Strapdown+Navigation
 
 Strapdown creates Markdown documents using Bootstrap/Bootswatch themes. No server-side compilation is required. 
@@ -76,9 +61,3 @@ They can have attribute cols (1 to 12, default is 12) for a narrow text column.
 	* Google code prettify https://code.google.com/p/google-code-prettify/
 * Several xmp/textarea tags can be used
 * Parameters are saved in ``<meta id='page-params' theme=...>``
-</textarea>
-
-
-<script src="config/strapdown.js"></script>
-</body>
-</html>
