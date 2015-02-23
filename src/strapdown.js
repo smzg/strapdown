@@ -170,7 +170,7 @@ h={};g()}};typeof define==="function"&&define.amd&&define("google-code-prettify"
 		newNode.innerHTML =
 		'<div class="container">'+
 		'<div class="navbar-header">'+
-		'<div id="title-line-nav" class="navbar-brand">'+title+'</div>'+
+		'<a href="/" class="navbar-brand" style="font-weight: bold;">'+title+'</a>'+
 		'<button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">'+
 		'<span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>'+
 		'</div>'+  
